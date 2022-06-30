@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UserListApp</string>
+    <string name="main_title">User List</string>
+    <string name="sub_title">Main Identification Is Email</string>
+    <string name="add_user_button">Add User</string>
+    <string name="delete_user_button">Delete User</string>
+    <string name="update_user_button">Update User</string>
+</resources>
